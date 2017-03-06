@@ -1,4 +1,5 @@
-﻿# Agile / Scrum
+﻿
+# Agile / Scrum
 ## Daily Reads
 - [Medium: Agile](https://medium.com/tag/agile/latest)
 
