@@ -1,19 +1,19 @@
-﻿## Agile / Scrum
-### Daily Reads
+﻿# Agile / Scrum
+## Daily Reads
 - [Medium: Agile](https://medium.com/tag/agile/latest)
 
-### Twitter
+## Twitter
 
-### Slack Communities
+## Slack Communities
 
-### Blogs
+## Blogs
 
-### Books
+## Books
 - [Lean Enterprise]()
 - [Essential Scrum]()
 - [The Elements of Scrum]()
 
-### Articles
+## Articles
 - [Understanding CapEx & OpEx](http://www.scaledagileframework.com/capex-and-opex/) by Scaled Agile Framework
 - [Why Should Agilists Care About Capitalization?](https://www.infoq.com/articles/agile-capitalization) by Dan R. Greening
 - [20 Product Owner Anti-Patterns](https://luis-goncalves.com/product-owner-antipatterns/) by Luis Goncalves
@@ -23,6 +23,6 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mike de la Fuente](http://twitter.highfiveboom.com) has waived all copyright and related or neighboring rights to this work.

@@ -7,7 +7,7 @@
 - [Agile / Scrum](agile-scrum.md)
 - [Business Analyst](business-analyst.md)
 - [Developers](developers.md)
-- [Dev Manager](dev-manager.md)
+- [Development Manager](dev-manager.md)
 - [DevOps](devops.md)
 - [Inspiration](inspiration.md)
 - [Interviews](interviews.md)
@@ -25,6 +25,6 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mike de la Fuente](http://twitter.highfiveboom.com) has waived all copyright and related or neighboring rights to this work.
