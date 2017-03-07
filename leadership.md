@@ -3,25 +3,28 @@
 - [Medium: Leadership](https://medium.com/tag/leadership/latest)
 
 ## Twitter
+[@simonsinek](https://twitter.com/simonsinek)
 
 ## Slack Communities
 - [Rands Leadership](http://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
 ## Blogs
 - [Rands In Repose](http://randsinrepose.com/blog/)
+- [Start With Why](http://blog.startwithwhy.com/)
 
 ## Books
-- [Emotional Intelligence 2.0]()
-- [For Your Improvement]()
-- [Leaders Eat Last]() by Simon Sinek
-- [Leading Changer]() by Kotter
-- [Management 3.0](), Martin Fowler Series
-- [Remote]() by Jason Freid and David Heinmeier Hansson
-- [Rework]() by Jason Freid and David Heinmeier Hansson
-- [Start with Why]() by Simon Sinek
-- [The Essential Drucker]() by Peter E. Drucker
-- [The Leader's Guider to Radical Management]()
-- [The Phoenix Project]()
+- [Emotional Intelligence 2.0](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/) by Travis Bradberry
+- [FYI: For Your Improvement - Competencies Development Guide](https://www.amazon.com/FYI-Improvement-Competencies-Development-Guide/dp/1933578904/) by  Michael M. Lombardo
+- [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591845327/) by Simon Sinek
+- [Leading Change](https://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431/) by John P. Kotter
+- [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471/) by Jurgen Appelo
+- [Remote](https://www.amazon.com/Remote-Jason-Fried-Heinemeier-Hansson/dp/0091954673/) by Jason Freid and David Heinmeier Hansson
+- [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/) by Jason Freid and David Heinmeier Hansson
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/) by Simon Sinek
+- [The Essential Drucker: The Best of Sixty Years of Peter Drucker's Essential Writings on Management](https://www.amazon.com/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016/) by Peter E. Drucker
+- [The Leader's Guide to Radical Management: Reinventing the Workplace for the 21st Century](https://www.amazon.com/Leaders-Guide-Radical-Management-Reinventing/dp/0470548681/) by Stephen Denning
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/) by Gene Kim
+- [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/) by Timothy Ferriss
 
 ## Articles
 - [20 Things the Most Respected Bosses Do Every Day](http://www.inc.com/bill-murphy-jr/want-to-be-a-highly-respected-boss-20-things-to-do-every-day.html) 

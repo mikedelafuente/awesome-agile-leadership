@@ -1,14 +1,12 @@
 # Inspiration
-## Daily Reads
-
-## Twitter
-
-## Slack Communities
-
 ## Blogs / Sites
 - [Beresnev Design](http://beresnev.design/)
 
 ## Books
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/) by Don Norman
+- [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/) by Steve Krug
+- [Hooked: How to Build Habit-Forming Products Hardcover](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/) by Nir Eyal
+- [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686587/) by Jonah Berger
 
 ## Articles
 - [10-3-2-1-0 Formula to Get More Done](http://www.earlytorise.com/10-3-2-1-0-formula-to-get-more-done/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)

@@ -3,12 +3,6 @@
 - [First Round: Management](http://firstround.com/review/management/) 
 - [Medium: Engineering Management](https://medium.com/tag/engineering-mangement) 
 
-## Twitter
-
-## Slack Communities
-
-## Blogs
-
 ## Books
 - [Some recommended reading for management types](http://blog.robbowley.net/2012/06/21/some-recommended-reading-for-management-types/) by Rob Bowley
 - [Reading List: Fog Creek Software Management Training Program](https://www.joelonsoftware.com/2005/11/22/reading-list-fog-creek-software-management-training-program/) by Joel Spolsky
@@ -28,6 +22,7 @@
 - [The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80#.a0bo02z3w) 
 - [The Feedback Door](http://noop.nl/2011/04/the-feedback-door.html) by Jurgen Appelo
 - [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.f6sv6impb)  by Bill Jordan
+- [The Right Way to Start a Meeting](https://hbr.org/2017/03/the-right-way-to-start-a-meeting) by Liane Davey
 - [The Role of the Development Manager](https://www.infoq.com/articles/development-manager-role) by Robert McCabe
 - [The Written Roles of Software Development Manager ](http://softwareengineering.stackexchange.com/questions/19267/the-written-roles-of-software-development-manager) on StackExchange
 - [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) 

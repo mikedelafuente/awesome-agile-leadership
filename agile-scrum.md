@@ -3,12 +3,6 @@
 ## Daily Reads
 - [Medium: Agile](https://medium.com/tag/agile/latest)
 
-## Twitter
-
-## Slack Communities
-
-## Blogs
-
 ## Books
 - [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/) by Kenneth S. Rubin
 - [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425/) by Jez Humble

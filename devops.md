@@ -2,12 +2,6 @@
 ## Daily Reads
 - [Medium: DevOps](https://medium.com/tag/devops/latest)
 
-## Twitter
-
-## Slack Communities
-
-## Blogs
-
 ## Books
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble
 - [Infrastructure as Code: Managing Servers in the Cloud](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357/) by Kief Morris

@@ -4,10 +4,6 @@
 - [Medium: Software Development](https://medium.com/tag/software-development/latest)
 - [The Morning Brew](http://blog.cwa.me.uk/tags/morning-brew/)
 
-## Twitter
-
-## Slack Communities
-
 ## Blogs / Sites
 - [Code Guide](http://codeguide.co/) by [@mdo](https://twitter.com/mdo)
 
@@ -25,7 +21,7 @@
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) by Eric Evans
 - [HTML Utopia: Designing Without Tables Using CSS](https://www.amazon.com/HTML-Utopia-Designing-Without-Tables/dp/0975240277/) by Rachel Andrew
 - [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/) by Eric Freeman
-- [Joel On Software]()https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ by Joel Spolsky
+- [Joel On Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/) by Joel Spolsky
 - [Patterns of Enterprise Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/) by Martin Fowler
 - [Patterns of Enterprise Integration](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/) by Martin Fowler
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/) by Martin Fowler
