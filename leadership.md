@@ -1,4 +1,4 @@
-﻿## Leadership
+## Leadership
 ### Daily Reads
 - [Medium: Leadership](https://medium.com/tag/leadership/latest)
 

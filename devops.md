@@ -1,4 +1,4 @@
-﻿## Inspiration
+## Inspiration
 ### Daily Reads
 - [Medium: DevOps](https://medium.com/tag/devops/latest)
 

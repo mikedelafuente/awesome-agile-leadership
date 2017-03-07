@@ -1,4 +1,4 @@
-﻿## Developers
+## Developers
 ### Daily Reads
 - [Medium: Software Development](https://medium.com/tag/software-development/latest)
 - [Medium: Programming](https://medium.com/tag/programming/latest)

@@ -1,4 +1,4 @@
-﻿## Team Lead
+## Team Lead
 ### Daily Reads
 
 ### Twitter

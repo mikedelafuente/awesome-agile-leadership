@@ -1,4 +1,4 @@
-﻿## One-On-Ones
+## One-On-Ones
 ### Daily Reads
 
 ### Twitter

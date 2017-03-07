@@ -1,4 +1,4 @@
-﻿## Leadership
+## Leadership
 ### Daily Reads
 
 ### Twitter

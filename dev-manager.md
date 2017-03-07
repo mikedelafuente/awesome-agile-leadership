@@ -1,4 +1,4 @@
-﻿## Dev Manager
+## Dev Manager
 ### Daily Reads
 
 ### Twitter

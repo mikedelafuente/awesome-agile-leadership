@@ -1,4 +1,4 @@
-﻿## Interviews
+## Interviews
 ### Daily Reads
 
 ### Twitter

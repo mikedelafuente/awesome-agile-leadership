@@ -1,4 +1,4 @@
-﻿## Technical Lead
+## Technical Lead
 ### Daily Reads
 
 ### Twitter

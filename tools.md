@@ -1,4 +1,4 @@
-﻿## Tools
+## Tools
 ### Project Management Software
 - VersionOne
 - Rally

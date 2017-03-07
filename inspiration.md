@@ -1,4 +1,4 @@
-﻿## Inspiration
+## Inspiration
 ### Daily Reads
 
 ### Twitter
