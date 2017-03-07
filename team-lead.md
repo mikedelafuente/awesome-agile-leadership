@@ -10,9 +10,9 @@
 ### Books
 
 ### Articles
+- [Responsibilities of a Team Leader](http://blog.robbowley.net/responsibilities-of-a-team-leader/) by Rob Bowley
 - [Technical Lead != Team Lead](https://dzone.com/articles/technical-lead-team-lead) by Steve Smith
 - [What is the main job of a team leader?](http://softwareengineering.stackexchange.com/questions/37694/what-is-the-main-job-of-a-team-leader) on StackExchange
-- [Responsibilities of a Team Leader](http://blog.robbowley.net/responsibilities-of-a-team-leader/) by Rob Bowley
 
 ## License
 

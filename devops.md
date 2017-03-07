@@ -11,10 +11,10 @@
 ### Books
 
 ### Articles
-- [What is the difference between build and release engineering, DevOps and site reliability engineering?](https://www.quora.com/What-is-the-difference-between-build-and-release-engineering-DevOps-and-site-reliability-engineering) by Woody Arnold
-- [PowerShell Desired State Configuration: The Basics](https://www.simple-talk.com/sysadmin/powershell/powershell-desired-state-configuration-the-basics/) by Nicolas Prigent
-- [How DevOps and the Cloud Changed Google Engineering](https://www.infoq.com/presentations/google-devops-cloud) by Melody Meckfessel 
 - [Conitnuous Deliver, DevOps and ALM in a Mostly Azure World](https://pleasereleaseme.net/) by Dr. Graham Smith
+- [How DevOps and the Cloud Changed Google Engineering](https://www.infoq.com/presentations/google-devops-cloud) by Melody Meckfessel 
+- [PowerShell Desired State Configuration: The Basics](https://www.simple-talk.com/sysadmin/powershell/powershell-desired-state-configuration-the-basics/) by Nicolas Prigent
+- [What is the difference between build and release engineering, DevOps and site reliability engineering?](https://www.quora.com/What-is-the-difference-between-build-and-release-engineering-DevOps-and-site-reliability-engineering) by Woody Arnold
 
 ## License
 
