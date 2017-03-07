@@ -12,31 +12,34 @@
 - [Code Guide](http://codeguide.co/) by [@mdo](https://twitter.com/mdo)
 
 ### Books
-- [Agile Principles, Patterns and Practices]()
-- [Beautiful Code]()
-- [CSS Secrets]() by Lea Verou
-- [CSS: Designing Without Tables]()
-- [Clean Code]()
-- [Code Complete]()
-- [Coders At Work]()
-- [Continuous Delivery]()
-- [Developer Testing by Alexander Tarlinder]()
-- [Domain Driven Design]()
-- [Gang of Four Design Patterns]()
-- [Head First Design Patterns: A Brain-Friendly Guide]() by Eric Freeman
-- [Joel On Software]()
-- [Patterns of Enterprise Architecture]()
-- [Patterns of Enterprise Integration]()
+- [Agile Principles, Patterns and Practices](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258/) by Robert C. Martin
+- [Beautiful Code: Leading Programmers Explain How They Think](https://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047/)by Andy Oram (Editor), Greg Wilson (Editor)
+- [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/) by Lea Verou
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) by Robert C. Martin
+- [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) by Steve McConnell
+- [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/) by Peter Seibel
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) by Erich Gamma
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides a.k.a The Gang of Four
+- [Developer Testing: Building Quality into Software](https://www.amazon.com/Developer-Testing-Building-Addison-Wesley-Signature/dp/0134291069/) by Alexander Tarlinder
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) by Eric Evans
+- [HTML Utopia: Designing Without Tables Using CSS](https://www.amazon.com/HTML-Utopia-Designing-Without-Tables/dp/0975240277/) by Rachel Andrew
+- [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/) by Eric Freeman
+- [Joel On Software]()https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ by Joel Spolsky
+- [Patterns of Enterprise Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/) by Martin Fowler
+- [Patterns of Enterprise Integration](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/) by Martin Fowler
 - [Reading List: Fog Creek Software Management Training Program](https://www.joelonsoftware.com/2005/11/22/reading-list-fog-creek-software-management-training-program/) by Joel Spolsky
-- [Refactoring (Martin Fowler Signature Series)]()
-- [Release It]()
-- [Service Design Patterns]()
-- [The Algorithm Design Manual]()
-- [The Clean Coder]()
-- [The Design of Everyday Things]()
-- [The Phoenix Project]()
-- [The Pragmatic Programmer]()
-- [Working Effectively with Legacy Code]()
+- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/) by Martin Fowler
+- [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/)
+- [Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web Services](https://www.amazon.com/Service-Design-Patterns-Fundamental-Solutions/dp/032154420X/) by Robert Daigneau
+- [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/) by Steven S Skiena 
+- [The Clean Coder: A Code of Conduct for Professional Programmers ](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) by Robert C. Martin
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/) by Don Norman
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/) by Gene Kim
+- [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks, Jr.
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/) by Gene Kim
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) by Andrew Hunt
+- [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/) by Michael Feathers
 
 ### Articles
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.q8kyxvl2w) by David Gilbertson
