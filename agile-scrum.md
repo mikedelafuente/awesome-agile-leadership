@@ -23,6 +23,7 @@
 - [How did we go NoEstimates?](http://nieve.herokuapp.com/post/how-did-we-go-noestimates){:target="_blank"}
 - [How Much Should a Team Get Done in a Sprint - Interview with JJ Sutherland](https://www.leadingagile.com/podcast/much-team-get-done-sprint/){:target="_blank"} by Dave Prior
 - [Spotify's Secret for Competing with Apple, Amazon, and Google](http://labs.openviewpartners.com/spotify-great-agile-example-scrum-done-right/#.V6HybZp-ynM){:target="_blank"} by Jeff Sutherland
+- [What Does it Mean to be a Cross-Functional Development Team?](https://platinumedge.com/blog/what-does-it-mean-be-cross-functional-development-team){:target="_blank"}
 
 ## License
 

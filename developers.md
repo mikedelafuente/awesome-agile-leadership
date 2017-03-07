@@ -50,13 +50,16 @@
 - [Git Cheat Sheet](https://zeroturnaround.com/wp-content/uploads/2016/05/Git-Cheat-Sheet-by-RebelLabs.png){:target="_blank"} by RebelLabs
 - [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request){:target="_blank"} by Keavy McMinn (GitHub)
 - [Why you should abandon TFS and adopt Git](http://www.continuousimprover.com/2015/06/why-you-should-abandon-tfs-source.html){:target="_blank"}
+- [So you want your Team to start using Git? – Part 1: Getting started](http://www.diaryofaninja.com/blog/2014/08/20/so-you-want-your-team-to-start-using-git-ndash-part-1-getting-started){:target="_blank"}
 
 #### Tests
 - [Really Dumb, yet Valuable, Tests](https://medium.com/@sberczuk/really-dumb-yet-valuable-tests-8d42afdf91a1#.3q1bua4we){:target="_blank"} by Steve Berczuk
 
 #### Patterns, Practices, etc.
+- [The Role of Logs](https://ayende.com/blog/173761/the-role-of-logs?Key=092123a4-a959-4703-9cbb-96a065a32a9d){:target="_blank"}  by Oren Eini
 - [Introduction to Object Oriented Programming Concepts (OOP) and More](https://www.codeproject.com/articles/22769/introduction-to-object-oriented-programming-concep){:target="_blank"} by Nirosh L.W.C.
 - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)){:target="_blank"}
+- [SOLID principles and TDD](http://coding-is-like-cooking.info/2012/09/solid-principles-and-tdd/){:target="_blank"} by Emily Bache
 - [4 major principles of Object-Oriented Programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/){:target="_blank"} by Raymond Lewallen
 - [Single Responsibility Principle: Why Does it Matter?](https://8thlight.com/blog/elizabeth-engelman/2015/01/22/single-responsibility-principle-why-does-it-matter.html){:target="_blank"} by Elizabeth Engelman
 - [Protect your software with the Circuit Breaker design pattern](http://particular.net/blog/protect-your-software-with-the-circuit-breaker-design-pattern){:target="_blank"}

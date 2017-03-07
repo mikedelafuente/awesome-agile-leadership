@@ -31,6 +31,10 @@
 - [Make Strategic Thinking Part of Your Job](https://hbr.org/2016/10/make-strategic-thinking-part-of-your-job){:target="_blank"} by Ron Carucci
 - [What it Means to be a True Leader and not Simply a Boss](http://www.lifehack.org/489013/what-it-means-to-be-a-true-leader-and-not-simply-a-boss){:target="_blank"} by Aleksandar Ilic
 - [Here’s my secret weapon: I read](https://medium.com/hi-my-name-is-jon/heres-my-secret-weapon-i-read-1bf722d1cfeb#.6rkcm0h4o){:target="_blank"}  by Jon Westenberg
+- [A Harvard psychologist says people judge you based on 2 criteria when they first meet you](http://www.businessinsider.com/harvard-psychologist-amy-cuddy-how-people-judge-you-2016-1){:target="_blank"} 
+- [How To Know Which Skills To Develop At Each Stage Of Your Career](https://www.fastcompany.com/3059358/your-most-productive-self/how-to-know-which-skills-to-develop-at-each-stage-of-your-career){:target="_blank"} 
+- [20 Things the Most Respected Bosses Do Every Day](http://www.inc.com/bill-murphy-jr/want-to-be-a-highly-respected-boss-20-things-to-do-every-day.html){:target="_blank"} 
+- [7 Things Great Leaders Always Do (but Mere Managers Always Fear)](http://www.inc.com/bill-murphy-jr/7-things-great-leaders-always-do-but-mere-managers-always-fear.html)
 
 ### Videos
 - [Simon Sinek: Understanding The Game We're Playing](https://www.youtube.com/watch?v=sjxNTcsquG8){:target="_blank"} 

@@ -33,6 +33,9 @@
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0){:target="_blank"} 
 - [Development managers vs. scrum masters](https://www.atlassian.com/agile/effective-management-across-agile){:target="_blank"} 
 - [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.f6sv6impb){:target="_blank"}  by Bill Jordan
+- [Managing Cross-Functional Teams](https://www.mindtools.com/pages/article/newTMM_30.htm){:target="_blank"}  
+- [Radical Candor — The Surprising Secret to Being a Good Boss](https://getpocket.com/explore/item/radical-candor-the-surprising-secret-to-being-a-good-boss-1113686406){:target="_blank"}  
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/){:target="_blank"}
