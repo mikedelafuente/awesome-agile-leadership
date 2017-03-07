@@ -1,17 +1,17 @@
-## Developers
-### Daily Reads
+# Developers
+## Daily Reads
 - [Medium: Programming](https://medium.com/tag/programming/latest)
 - [Medium: Software Development](https://medium.com/tag/software-development/latest)
 - [The Morning Brew](http://blog.cwa.me.uk/tags/morning-brew/)
 
-### Twitter
+## Twitter
 
-### Slack Communities
+## Slack Communities
 
-### Blogs / Sites
+## Blogs / Sites
 - [Code Guide](http://codeguide.co/) by [@mdo](https://twitter.com/mdo)
 
-### Books
+## Books
 - [Agile Principles, Patterns and Practices](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258/) by Robert C. Martin
 - [Beautiful Code: Leading Programmers Explain How They Think](https://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047/)by Andy Oram (Editor), Greg Wilson (Editor)
 - [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/) by Lea Verou
@@ -28,7 +28,6 @@
 - [Joel On Software]()https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ by Joel Spolsky
 - [Patterns of Enterprise Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/) by Martin Fowler
 - [Patterns of Enterprise Integration](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/) by Martin Fowler
-- [Reading List: Fog Creek Software Management Training Program](https://www.joelonsoftware.com/2005/11/22/reading-list-fog-creek-software-management-training-program/) by Joel Spolsky
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/) by Martin Fowler
 - [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/)
 - [Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web Services](https://www.amazon.com/Service-Design-Patterns-Fundamental-Solutions/dp/032154420X/) by Robert Daigneau
@@ -41,7 +40,7 @@
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) by Andrew Hunt
 - [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/) by Michael Feathers
 
-### Articles
+## Articles
 - [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.q8kyxvl2w) by David Gilbertson
 - [Don't Waste Time on Code Reviews](https://dzone.com/articles/dont-waste-time-code-reviews) by Jim Bird
 - [Instrumentation: The First Four Things You Measure](https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/) by Anotine Grondin
@@ -49,16 +48,16 @@
 - [Meet Zipkin: A Tracer for Debugging Microservices](https://thenewstack.io/meet-zipkin-tracer-debugging-microservices/) by Joab Jackson
 - [Why You Won't Fix It Later](http://on-agile.blogspot.com/2007/04/why-you-wont-fix-it-later.html)
 
-### Git
+### Articles: Git
 - [Git Cheat Sheet](https://zeroturnaround.com/wp-content/uploads/2016/05/Git-Cheat-Sheet-by-RebelLabs.png) by RebelLabs
 - [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request) by Keavy McMinn (GitHub)
 - [So you want your Team to start using Git? – Part 1: Getting started](http://www.diaryofaninja.com/blog/2014/08/20/so-you-want-your-team-to-start-using-git-ndash-part-1-getting-started)
 - [Why you should abandon TFS and adopt Git](http://www.continuousimprover.com/2015/06/why-you-should-abandon-tfs-source.html)
 
-#### Tests
+### Articles: Tests
 - [Really Dumb, yet Valuable, Tests](https://medium.com/@sberczuk/really-dumb-yet-valuable-tests-8d42afdf91a1#.3q1bua4we) by Steve Berczuk
 
-#### Patterns, Practices, etc.
+### Articles: Patterns, Practices, etc.
 - [4 major principles of Object-Oriented Programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/) by Raymond Lewallen
 - [Introduction to Object Oriented Programming Concepts (OOP) and More](https://www.codeproject.com/articles/22769/introduction-to-object-oriented-programming-concep) by Nirosh L.W.C.
 - [Inversion of Control, Dependency Injection and Service Locator in C#](http://www.csharpstar.com/inversion-of-control-dependency-injection-and-service-locator-in-csharp/)
@@ -68,7 +67,7 @@
 - [Single Responsibility Principle: Why Does it Matter?](https://8thlight.com/blog/elizabeth-engelman/2015/01/22/single-responsibility-principle-why-does-it-matter.html) by Elizabeth Engelman
 - [The Role of Logs](https://ayende.com/blog/173761/the-role-of-logs?Key=092123a4-a959-4703-9cbb-96a065a32a9d)  by Oren Eini
 
-#### Architecture
+### Articles: Architecture
 - [Architects Don't Code](http://wiki.c2.com/?ArchitectsDontCode) by Ward Cunningham
 - [Architects Play Golf](http://wiki.c2.com/?ArchitectsPlayGolf) by Ward Cunningham
 - [Don’t start with a monolith](https://martinfowler.com/articles/dont-start-monolith.html) by Stefan Tilkov

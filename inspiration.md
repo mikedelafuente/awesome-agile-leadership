@@ -1,16 +1,16 @@
-## Inspiration
-### Daily Reads
+# Inspiration
+## Daily Reads
 
-### Twitter
+## Twitter
 
-### Slack Communities
+## Slack Communities
 
-### Blogs / Sites
+## Blogs / Sites
 - [Beresnev Design](http://beresnev.design/)
 
-### Books
+## Books
 
-### Articles
+## Articles
 - [10-3-2-1-0 Formula to Get More Done](http://www.earlytorise.com/10-3-2-1-0-formula-to-get-more-done/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 - [A Buddhist Principle that helps us be more Successful in Life](https://www.elephantjournal.com/2016/01/a-buddhist-principle-that-helps-us-be-more-successful-in-life/) by Natalie Lucci
 - [Personal Productivity Quotes](http://sourcesofinsight.com/personal-productivity-quotes/)

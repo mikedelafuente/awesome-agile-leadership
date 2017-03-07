@@ -1,16 +1,16 @@
-## Leadership
-### Daily Reads
+# Leadership
+## Daily Reads
 - [Medium: Leadership](https://medium.com/tag/leadership/latest)
 
-### Twitter
+## Twitter
 
-### Slack Communities
+## Slack Communities
 - [Rands Leadership](http://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
-### Blogs
+## Blogs
 - [Rands In Repose](http://randsinrepose.com/blog/)
 
-### Books
+## Books
 - [Emotional Intelligence 2.0]()
 - [For Your Improvement]()
 - [Leaders Eat Last]() by Simon Sinek
@@ -23,7 +23,7 @@
 - [The Leader's Guider to Radical Management]()
 - [The Phoenix Project]()
 
-### Articles
+## Articles
 - [20 Things the Most Respected Bosses Do Every Day](http://www.inc.com/bill-murphy-jr/want-to-be-a-highly-respected-boss-20-things-to-do-every-day.html) 
 - [5 toxic workplace habits and how to break them](https://www.pluralsight.com/blog/career/break-these-bad-work-habits) by Stacy Warden
 - [7 Things Great Leaders Always Do (but Mere Managers Always Fear)](http://www.inc.com/bill-murphy-jr/7-things-great-leaders-always-do-but-mere-managers-always-fear.html)
@@ -36,7 +36,7 @@
 - [So You Want to Be a Great Leader...](https://www.linkedin.com/pulse/so-you-want-great-leader-john-eades) by John Eades
 - [What it Means to be a True Leader and not Simply a Boss](http://www.lifehack.org/489013/what-it-means-to-be-a-true-leader-and-not-simply-a-boss) by Aleksandar Ilic
 
-### Videos
+## Videos
 - [Simon Sinek: Understanding The Game We're Playing](https://www.youtube.com/watch?v=sjxNTcsquG8) 
 - [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) 
 

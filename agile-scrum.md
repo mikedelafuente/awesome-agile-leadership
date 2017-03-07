@@ -18,6 +18,8 @@
 
 ## Articles
 - [20 Product Owner Anti-Patterns](https://luis-goncalves.com/product-owner-antipatterns/) by Luis Goncalves
+- [An Example ScrumMaster's Checklist](https://www.scrumalliance.org/community/articles/2010/november/an-example-scrummaster-s-checklist) by Michael James
+- [Development managers vs. scrum masters](https://www.atlassian.com/agile/effective-management-across-agile) 
 - [How Much Should a Team Get Done in a Sprint - Interview with JJ Sutherland](https://www.leadingagile.com/podcast/much-team-get-done-sprint/) by Dave Prior
 - [How did we go NoEstimates?](http://nieve.herokuapp.com/post/how-did-we-go-noestimates)
 - [Product Owner Anti-Patterns, Part 1: The Absent Product Owner](http://www.solutionsiq.com/product-owner-anti-patterns-part-1-the-absent-product-owner/) by Monica Yap
