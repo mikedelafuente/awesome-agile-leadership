@@ -10,6 +10,9 @@
 ### Books
 
 ### Articles
+- [An Example ScrumMaster's Checklist](https://www.scrumalliance.org/community/articles/2010/november/an-example-scrummaster-s-checklist){:target="_blank"} by Michael James
+- [Development managers vs. scrum masters](https://www.atlassian.com/agile/effective-management-across-agile){:target="_blank"} 
+
 
 ## License
 

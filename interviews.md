@@ -11,6 +11,8 @@
 - [Ace the Programming Interview: 160 Questions and Answers for Success](){:target="_blank"}
 
 ### Articles
+- [How to Hire a Programmer](https://blog.codinghorror.com/how-to-hire-a-programmer/) by Jeff Atwood
+- [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.ez3xz9f0w) by FourSquare
 
 ## License
 

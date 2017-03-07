@@ -17,6 +17,31 @@
 - Green Hopper
 - Google Docs
 
+### Code Reviews
+- Gerrit
+- CodeFlow
+- Collaborator
+- ReviewBoard
+- Crucible
+
+## Interviews
+- Interview Zen
+- [Codewars](https://www.codewars.com/){:target="_blank"}
+
+## Design / Prototyping
+- [Figma](https://www.figma.com/){:target="_blank"}
+
+## Developers
+- [Must-have Tools on Windows: Part 1](http://www.ganshani.com/blog/2012/02/must-have-tools-on-windows-part-1-of-2/){:target="_blank"} by Punit Ganshani
+- [Must-have Tools on Windows: Part 2](http://www.ganshani.com/blog/2012/03/must-have-tools-on-windows-part-2-of-2/){:target="_blank"} by Punit Ganshani
+- [Serilog](https://serilog.net/){:target="_blank"} for logging
+- [Hangfire](http://hangfire.io/){:target="_blank"} for background processing
+- [Zipkin](http://zipkin.io/){:target="_blank"}, a distributed tracing system (for use with microservices)
+- [Scientist](https://githubengineering.com/scientist/){:target="_blank"}
+- [Mockable: The Fastest way to mock your API](https://www.mockable.io){:target="_blank"}
+
+## Organization
+- [Emergent Task Planner (Amazon)](https://www.amazon.com/Emergent-Planner-3-Month-Notebook-5-8x8-5/dp/B00C7ZKELG){:target="_blank"} by David Seah
 
 ## License
 

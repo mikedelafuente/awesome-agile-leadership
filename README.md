@@ -17,7 +17,6 @@
 - [Quality Assurance](quality-assurance.md)
 - [Scrum Master](scrum-master.md)
 - [Team Lead](team-lead.md)
-- [Tech Lead](tech-lead.md)
 - [Tools](tools.md)
 
 ## General Sites

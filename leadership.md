@@ -24,7 +24,17 @@
 - [The Phoenix Project](){:target="_blank"}
 
 ### Articles
+- [So You Want to Be a Great Leader...](https://www.linkedin.com/pulse/so-you-want-great-leader-john-eades){:target="_blank"} by John Eades
 - [Power Up Your Team with Nonviolent Communication](http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/){:target="_blank"}
+- [5 toxic workplace habits and how to break them](https://www.pluralsight.com/blog/career/break-these-bad-work-habits){:target="_blank"} by Stacy Warden
+- [A Lesson in Leadership: How to Powerfully Influence Others by Doing These 5 Things Every Day](http://www.inc.com/marcel-schwantes/a-lesson-in-leadership-how-to-powerfully-influence-others-by-doing-these-5-thing.html){:target="_blank"} by Marcel Schwantes
+- [Make Strategic Thinking Part of Your Job](https://hbr.org/2016/10/make-strategic-thinking-part-of-your-job){:target="_blank"} by Ron Carucci
+- [What it Means to be a True Leader and not Simply a Boss](http://www.lifehack.org/489013/what-it-means-to-be-a-true-leader-and-not-simply-a-boss){:target="_blank"} by Aleksandar Ilic
+- [Here’s my secret weapon: I read](https://medium.com/hi-my-name-is-jon/heres-my-secret-weapon-i-read-1bf722d1cfeb#.6rkcm0h4o){:target="_blank"}  by Jon Westenberg
+
+### Videos
+- [Simon Sinek: Understanding The Game We're Playing](https://www.youtube.com/watch?v=sjxNTcsquG8){:target="_blank"} 
+- [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y){:target="_blank"} 
 
 ## License
 
