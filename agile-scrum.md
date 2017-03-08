@@ -6,9 +6,10 @@
 ## Books
 - [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/) by Kenneth S. Rubin
 - [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425/) by Jez Humble
-- [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-Sims/dp/0982866917/) by Chris Sims
 - [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/) by Jeff Sutherland
 - [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X/) by Chris Sims
+- [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-Sims/dp/0982866917/) by Chris Sims
+- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/) by Eric Ries
 
 ## Articles
 - [20 Product Owner Anti-Patterns](https://luis-goncalves.com/product-owner-antipatterns/) by Luis Goncalves

@@ -34,6 +34,9 @@
 - [Serilog](https://serilog.net/) for logging
 - [Zipkin](http://zipkin.io/), a distributed tracing system (for use with microservices)
 
+## DevOps
+- [DevOps Tools: A non exhaustive list of tools for DevOps practice](https://medium.com/@chrpopov/devops-tools-7ad516676a61)
+
 ## Interviews
 - [Codewars](https://www.codewars.com/)
 - [Interview Zen](http://www.interviewzen.com)
@@ -47,6 +50,9 @@
 - [Exceptionless](http://www.exceptionless.com)
 - [Raygun](http://raygun.io/)
 - [Sensu](http://sensuapp.org/)
+
+## Organization
+- [Emergent Task Planner (Amazon)](https://www.amazon.com/Emergent-Planner-3-Month-Notebook-5-8x8-5/dp/B00C7ZKELG) by David Seah
 
 ### Project Management Software
 - [Agile Solutions](https://www.ca.com/us/products/agile-solutions.html) by CA, formerly Rally
@@ -72,9 +78,6 @@
 ### Team Communication
 - [Hipchat](http://www.hipchat.com)
 - [Slack](http://www.slack.com)
-
-## Organization
-- [Emergent Task Planner (Amazon)](https://www.amazon.com/Emergent-Planner-3-Month-Notebook-5-8x8-5/dp/B00C7ZKELG) by David Seah
 
 ## License
 
