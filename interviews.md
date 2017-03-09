@@ -1,11 +1,4 @@
 # Interviews
-## Daily Reads
-
-## Twitter
-
-## Slack Communities
-
-## Blogs
 
 ## Books
 - [Ace the Programming Interview: 160 Questions and Answers for Success](https://www.amazon.com/Ace-Programming-Interview-Questions-Answers/dp/111851856X/)
