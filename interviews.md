@@ -1,21 +1,23 @@
-## Interviews
-### Daily Reads
+# Interviews
+## Daily Reads
 
-### Twitter
+## Twitter
 
-### Slack Communities
+## Slack Communities
 
-### Blogs
+## Blogs
 
-### Books
-- [Ace the Programming Interview: 160 Questions and Answers for Success]()
+## Books
+- [Ace the Programming Interview: 160 Questions and Answers for Success](https://www.amazon.com/Ace-Programming-Interview-Questions-Answers/dp/111851856X/)
+- [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/) by Randall Munroe
 
-### Articles
+## Articles
+- [Here are Google, Amazon and Facebook’s Secrets to Hiring the Best People](http://thecooperreview.com/google-amazon-facebook-secrets-hiring-best-people)
 - [How to Hire a Programmer](https://blog.codinghorror.com/how-to-hire-a-programmer/) by Jeff Atwood
 - [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.ez3xz9f0w) by FourSquare
 - [Top 30 OOPS Interview Questions (Refresh Fundamentals !!)](http://www.csharpstar.com/top-30-oops-interview-questions/)
-- [Here are Google, Amazon and Facebook’s Secrets to Hiring the Best People](http://thecooperreview.com/google-amazon-facebook-secrets-hiring-best-people)
 - [You’re hiring the wrong people: 10 tips to find great developers](https://blogs.endjin.com/2015/03/youre-hiring-the-wrong-people-10-tips-to-find-great-developers/)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

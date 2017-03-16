@@ -1,22 +1,18 @@
 ## Contents
-
 - [Agile / Scrum](agile-scrum.md)
-- [Business Analyst](business-analyst.md)
+- [DevOps](devops.md)
 - [Developers](developers.md)
 - [Development Manager](dev-manager.md)
-- [DevOps](devops.md)
 - [Inspiration](inspiration.md)
 - [Interviews](interviews.md)
 - [Leadership](leadership.md)
-- [One-On-Ones](one-on-ones)
-- [Product Owner](product-owner.md)
-- [Quality Assurance](quality-assurance.md)
-- [Scrum Master](scrum-master.md)
-- [Team Lead](team-lead.md)
 - [Tools](tools.md)
 
 ## General Sites
 - [First Round Review](http://firstround.com/review/)
+
+## Twitter
+
 
 ## License
 
