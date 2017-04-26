@@ -7,6 +7,7 @@
 - [Interviews](interviews.md)
 - [Leadership](leadership.md)
 - [Tools](tools.md)
+- [Git Tips](git-tips.md)
 
 ## General Sites
 - [First Round Review](http://firstround.com/review/)
