@@ -1,11 +1,4 @@
 # Interviews
-## Daily Reads
-
-## Twitter
-
-## Slack Communities
-
-## Blogs
 
 ## Books
 - [Ace the Programming Interview: 160 Questions and Answers for Success](https://www.amazon.com/Ace-Programming-Interview-Questions-Answers/dp/111851856X/)
@@ -15,8 +8,11 @@
 - [Here are Google, Amazon and Facebook’s Secrets to Hiring the Best People](http://thecooperreview.com/google-amazon-facebook-secrets-hiring-best-people)
 - [How to Hire a Programmer](https://blog.codinghorror.com/how-to-hire-a-programmer/) by Jeff Atwood
 - [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.ez3xz9f0w) by FourSquare
+- [Netflix Culture: Freedom & Responsibility](https://www.slideshare.net/reed2001/culture-1798664)
 - [Top 30 OOPS Interview Questions (Refresh Fundamentals !!)](http://www.csharpstar.com/top-30-oops-interview-questions/)
+- [Traits to Assess During an Interview](https://docs.google.com/spreadsheets/d/1q2a6n4s0UpzsGcUUgsvWLpt-hYhgnzhxY9gbcbLfbho/edit#gid=0)
 - [You’re hiring the wrong people: 10 tips to find great developers](https://blogs.endjin.com/2015/03/youre-hiring-the-wrong-people-10-tips-to-find-great-developers/)
+- [Your Company’s Culture is Who You Hire, Fire, and Promote](https://worldpositive.com/your-companys-culture-is-who-you-hire-fire-and-promote-c69f84902983)
 
 ## License
 
